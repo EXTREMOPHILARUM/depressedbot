@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SignUpActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingTop="56dp"
+        >
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/app_name"
+            android:textSize="40dp"
+            android:textColor="#000000"/>
+
+
+        <!-- Email lable -->
+        <EditText
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center_horizontal"
+            android:hint="First Name"
+            android:inputType="text"
+            android:id="@+id/firstNameInput"/>
+        <EditText
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center_horizontal"
+            android:hint="Last Name"
+            android:inputType="text"
+            android:id="@+id/lastNameInput"/>
+
+        <EditText
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center_horizontal"
+            android:hint="Email"
+            android:inputType="textEmailAddress"
+            android:id="@+id/emailInputSignUP"/>
+        <EditText
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center_horizontal"
+            android:hint="Street"
+            android:inputType="text"
+            android:id="@+id/streetInput"/>
+        <EditText
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center_horizontal"
+            android:hint="City"
+            android:inputType="text"
+            android:id="@+id/cityInput"/>
+        <Spinner
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center_horizontal"
+            android:hint="Country"
+            android:id="@+id/countryInput"/>
+        <EditText
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center_horizontal"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:id="@+id/passwordInput"/>
+        <EditText
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center_horizontal"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:id="@+id/confPassInput"/>
+        <TextView
+            android:layout_width="350dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Error occured"
+            android:textColor="#ff0000"
+            android:visibility="gone"
+            android:id="@+id/errorMessage"/>
+        <Button
+            android:layout_width="350dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Send Confirmation code"
+            android:id="@+id/sendConfirmationCode" />
+        <ProgressBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:id="@+id/progressBar"
+            android:visibility="gone"
+            />
+        <EditText
+            android:layout_width="350dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content"
+            android:hint="Email Confirmation code"
+            android:inputType="number"
+            android:id="@+id/emailConfirmCode" />
+        <Button
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:layout_gravity="center_horizontal"
+            android:text="Sign-Up"
+            android:id="@+id/signupBtn"
+            />
+
+    </LinearLayout>
+</ScrollView>
