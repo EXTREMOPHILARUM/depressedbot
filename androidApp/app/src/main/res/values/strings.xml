@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyChatBot</string>
+
+    <string-array name="countries">
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Nepal</item>
+        <item>SiriLanka</item>
+    </string-array>
+</resources>

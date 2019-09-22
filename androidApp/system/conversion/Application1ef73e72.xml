@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Abhinav keshri\Desktop\android-NavigationDrawer-master\android-NavigationDrawer-master\Application\.idea\codeStyles\Project.xml" timestamp="1568856441736" />
+    <file path="C:\Users\Abhinav keshri\Desktop\android-NavigationDrawer-master\android-NavigationDrawer-master\Application\.idea\gradle.xml" timestamp="1568856455708" />
+    <file path="C:\Users\Abhinav keshri\Desktop\android-NavigationDrawer-master\android-NavigationDrawer-master\Application\.idea\misc.xml" timestamp="1568856441679" />
+    <file path="C:\Users\Abhinav keshri\Desktop\android-NavigationDrawer-master\android-NavigationDrawer-master\Application\.idea\modules.xml" timestamp="1568856441694" />
+    <file path="C:\Users\Abhinav keshri\Desktop\android-NavigationDrawer-master\android-NavigationDrawer-master\Application\.idea\runConfigurations.xml" timestamp="1568856441748" />
+    <file path="C:\Users\Abhinav keshri\Desktop\android-NavigationDrawer-master\android-NavigationDrawer-master\Application\.idea\workspace.xml" timestamp="1568874591099" />
+    <file path="C:\Users\Abhinav keshri\Desktop\android-NavigationDrawer-master\android-NavigationDrawer-master\Application\Application.iml" timestamp="1568856441655" />
+  </project-files>
+</conversion>
+

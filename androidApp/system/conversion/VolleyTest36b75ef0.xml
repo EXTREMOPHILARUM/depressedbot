@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\codeStyles\Project.xml" timestamp="1568792137325" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\gradle.xml" timestamp="1568792156689" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_annotation_annotation_1_0_0_jar.xml" timestamp="1568792156810" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_appcompat_appcompat_1_0_2_aar.xml" timestamp="1568792156876" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_arch_core_core_common_2_0_0_jar.xml" timestamp="1568792156915" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" timestamp="1568792156933" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" timestamp="1568792156952" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_collection_collection_1_0_0_jar.xml" timestamp="1568792156964" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" timestamp="1568792157013" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3_jar.xml" timestamp="1568792157031" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" timestamp="1568792157063" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_core_core_1_0_1_aar.xml" timestamp="1568792157075" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" timestamp="1568792157086" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_customview_customview_1_0_0_aar.xml" timestamp="1568792157104" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" timestamp="1568792157116" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" timestamp="1568792157128" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_fragment_fragment_1_0_0_aar.xml" timestamp="1568792157140" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" timestamp="1568792157156" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" timestamp="1568792157169" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" timestamp="1568792157185" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_common_2_0_0_jar.xml" timestamp="1568792157223" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" timestamp="1568792157247" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" timestamp="1568792157259" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" timestamp="1568792157279" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_viewmodel_2_0_0_aar.xml" timestamp="1568792157320" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_loader_loader_1_0_0_aar.xml" timestamp="1568792157369" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" timestamp="1568792157382" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_print_print_1_0_0_aar.xml" timestamp="1568792157395" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_recyclerview_recyclerview_1_0_0_aar.xml" timestamp="1568792480168" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" timestamp="1568792157414" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" timestamp="1568792157426" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_test_espresso_espresso_core_3_1_1_aar.xml" timestamp="1568792157439" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_test_espresso_espresso_idling_resource_3_1_1_aar.xml" timestamp="1568792157452" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_test_monitor_1_1_1_aar.xml" timestamp="1568792157464" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_test_runner_1_1_1_aar.xml" timestamp="1568792157477" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_1_0_1_aar.xml" timestamp="1568792157490" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_animated_1_0_0_aar.xml" timestamp="1568792157504" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" timestamp="1568792157518" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" timestamp="1568792157530" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1568792157541" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__com_squareup_javawriter_2_1_1_jar.xml" timestamp="1568792157556" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1568792157567" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1568792157578" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" timestamp="1568792157589" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1568792157600" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1568792157611" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\libraries\Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1568792157624" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\misc.xml" timestamp="1568792264587" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\modules.xml" timestamp="1568792156642" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\runConfigurations.xml" timestamp="1568792137339" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\.idea\workspace.xml" timestamp="1568809630196" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\VolleyTest.iml" timestamp="1568792480134" />
+    <file path="C:\Users\Abhinav keshri\AndroidStudioProjects\ChangeTextColor\VolleyTest\app\app.iml" timestamp="1568792721043" />
+  </project-files>
+</conversion>
+
